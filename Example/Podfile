@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LeftChangeIconTextField_Example' do
+  pod 'LeftChangeIconTextField', :path => '../'
+
+  target 'LeftChangeIconTextField_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

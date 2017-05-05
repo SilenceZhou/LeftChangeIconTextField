@@ -1,0 +1,6 @@
+framework module LeftChangeIconTextField {
+  umbrella header "LeftChangeIconTextField-umbrella.h"
+
+  export *
+  module * { export * }
+}

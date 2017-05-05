@@ -1,0 +1,16 @@
+PODS:
+  - LeftChangeIconTextField (0.1.0)
+
+DEPENDENCIES:
+  - LeftChangeIconTextField (from `../`)
+
+EXTERNAL SOURCES:
+  LeftChangeIconTextField:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LeftChangeIconTextField: 5a2e44173bbb890dcf749c85f503e991c4aa7558
+
+PODFILE CHECKSUM: 1353471b9941e250911ec813c5bfdf536317a85c
+
+COCOAPODS: 1.2.0

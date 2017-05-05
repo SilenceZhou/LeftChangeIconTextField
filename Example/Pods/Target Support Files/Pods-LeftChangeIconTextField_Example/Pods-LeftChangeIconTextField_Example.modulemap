@@ -1,0 +1,6 @@
+framework module Pods_LeftChangeIconTextField_Example {
+  umbrella header "Pods-LeftChangeIconTextField_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
